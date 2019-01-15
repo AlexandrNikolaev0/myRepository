@@ -1,0 +1,3 @@
+interface TrostPrice {
+    void trostPrice();
+}
