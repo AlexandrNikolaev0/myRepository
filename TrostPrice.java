@@ -1,3 +1,0 @@
-interface TrostPrice {
-    void trostPrice();
-}
